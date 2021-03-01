@@ -7,7 +7,7 @@ public class Class1 {
 		
 		System.out.println("Deneme1");
 		System.out.println("Deneme2");
-		
+		System.out.println("Deneme3");
 		
 		
 	}
