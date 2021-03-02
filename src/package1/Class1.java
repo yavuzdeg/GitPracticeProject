@@ -11,7 +11,9 @@ public class Class1 {
 		System.out.println("Deneme4");
 		System.out.println("Deneme5");
 		System.out.println("Deneme7");
-                System.out.println("Deneme8");
+        System.out.println("Deneme8");
+        System.out.println("Deneme9local");
+                
 	}
 	
 	
