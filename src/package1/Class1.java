@@ -9,7 +9,7 @@ public class Class1 {
 		System.out.println("Deneme2");
 		System.out.println("Deneme3");
 		System.out.println("Deneme4");
-		
+		System.out.println("Deneme5");
 	}
 	
 	
